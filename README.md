@@ -1,5 +1,5 @@
 ## 🎓 Udacity-Business-Analytics-Nanodegree
-#### Course Outline
+#### 📄 Course Outline
 In this program, students will master data fundamentals applicable to any industry and learn to make data-driven decisions. From collecting and analyzing data to modeling business scenarios, students will learn Excel, SQL, and Tableau, utilizing data visualization skills to communicate findings.
 
 ---
@@ -31,4 +31,4 @@ I queried the database with the aim of providing a deeper understanding of their
 I created a series of visualizations which were combined into 3 dynamic dashboards, tracking the on-time performance of US domestic flights operated by large airline carriers. Each dashboard was accompanied by a brief explanation of both the content and design choices for the visualizations.
 
 ---
-### Certificate
+### 🧑‍🎓 [Udacity Certificate](https://github.com/tuckercp/Udacity-Business-Analytics-ND/blob/main/Udacity%20BA%20Certificate.pdf)
