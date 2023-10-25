@@ -3,9 +3,6 @@
 ### Project Summary
 This project involves working within Excel and Powerpoint to analyze a dataset containing historical financial data of S&P 500 companies from the NYSE. I am required to calculate summary statistics and draw any inference from the statistics, create visual tools to communicate the results of the analysis, and build financial models and dashboards for companies within the dataset.
 
-### Course Outline and Syllabus
-Here is the [course outline](https://www.udacity.com/course/business-analytics-nanodegree--nd098).
-
 ### Tools & Technologies
 * Excel
 * Powerpoint
