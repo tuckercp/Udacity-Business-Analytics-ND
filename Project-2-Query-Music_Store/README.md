@@ -11,7 +11,7 @@ The purpose of this project is to generate a series of questions to be answered 
 * Juypter Notebook
 
 ### Dataset Used
-The data comes from the sample Chinook database from the DB Browser for SQLite. I have cloned the repo, [chinook_database](https://github.com/lerocha/chinook-database/tree/master) to this directory. In order to download the .sql file to view the database, navigate to the DataSources directory within that repo to find the appropriate file for the RDBMS you are running on your local machine.
+The data comes from the sample Chinook database available [here](https://github.com/lerocha/chinook-database/tree/master) on Github. I have cloned the repo to this directory as well. In order to download the .sql file to view the database, navigate to the DataSources directory to find the appropriate file for the RDBMS you are running on your local machine.
 
 ### Additional Information
-The original project was carried out within SQLite, along with Excel and Powerpoint for exporting the queries and generating the slides. However, I am using a Juypter notebook to display my queries alongside the insights found.
+The original project was carried out using DB Browser for SQLite, along with Excel and Powerpoint for exporting the queries and generating the slides. However in order to display my work here on Github, I am using a Juypter notebook to display my queries alongside the insights found.
