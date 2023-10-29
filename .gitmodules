@@ -1,0 +1,3 @@
+[submodule "Project-2-Query-Music-Store/chinook-database"]
+	path = Project-2-Query-Music-Store/chinook-database
+	url = git@github.com:lerocha/chinook-database.git
