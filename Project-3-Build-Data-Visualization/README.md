@@ -1,12 +1,12 @@
 ## Project #3 - Build a Data Visualization Project 🖼️
 
 ### Table of Contents
-* [Project Summary](#Project Summary)
-* [Dataset Used](#Dataset Used)
+* [Project Summary](#ProjectSummary)
+* [Dataset Used](#DatasetUsed)
 * [Task](#Task)
-* [Visualization #1](#Visualization #1)
-* [Visualization #2](#Visualization #2)
-* [Visualization #3](#Visualization #3)
+* [Visualization #1](#Visualization#1)
+* [Visualization #2](#Visualization#2)
+* [Visualization #3](#Visualization#3)
 
 ### Project Summary
 The goal of this project is to create a set of visualizations with Tableau that reveal insights from a dataset. The visualizations should reflect the principles and practices of good data visualization, i.e. visual encodings, design principles, and effective communication.
