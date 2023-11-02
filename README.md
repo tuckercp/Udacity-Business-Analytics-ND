@@ -13,7 +13,7 @@ In this program, students will master data fundamentals applicable to any indust
 I performed EDA on S&P 500 financial data from the NYSE and created 2 Excel dashboards; 1) a P&L statement 2) a forecasting model for companies within a selected GICS subindustry. My findings were documented in presentation slides and shared through several different types of visualizations.
 
 ---
-### [Project #2 - 🎹 Query a Digital Music Store Database](link)
+### [Project #2 - 🎹 Query a Digital Music Store Database](https://github.com/tuckercp/Udacity-Business-Analytics-ND/tree/main/Project-2-Query-Music-Store)
 🔑 **Key Learnings:**
 * Learn how to execute core SQL commands to define, select, manipulate, control access, aggregate, and join data and data tables
 * Understand when and how to use subqueries, several window functions, and partitions to complete complex tasks
@@ -23,7 +23,7 @@ I performed EDA on S&P 500 financial data from the NYSE and created 2 Excel dash
 I queried the database with the aim of providing a deeper understanding of their media, customers, employees and/or invoice information. All my queries and findings were exported to .csv files and subsequently accompanied by presentation slides.
 
 ---
-### [Project #3 - 🖼️ Build a Data Visualization Project](link)
+### [Project #3 - 🖼️ Build a Data Visualization Project](https://github.com/tuckercp/Udacity-Business-Analytics-ND/tree/main/Project-3-Build-Data-Visualization)
 🔑 **Key Learnings:**
 * Learn how to select the most appropriate data visualization for an analysis
 * Learn how to evaluate the effectiveness of a data visualization and build interactive and engaging Tableau dashboards
